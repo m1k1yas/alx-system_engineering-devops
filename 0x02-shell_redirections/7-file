@@ -1,2 +1,2 @@
 #!/bin/bash
-emacs -e "Holberton School" >> "\\*\\\\'\"Holberton School\"\\'\\\*\$\\?\\*\\*\\*\\*\\*:)"
+echo -e "Holberton School" >> "\\*\\\\'\"Holberton School\"\\'\\\*\$\\?\\*\\*\\*\\*\\*:)"
