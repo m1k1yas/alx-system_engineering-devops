@@ -7,4 +7,5 @@
 5. **ls -la** - list files including hidden files in the current directory in a long format
 6. **ls -na** - lists files including hidden files by user and group IDs numerically
 7. **mkdir** - creates directory
+8. **mv** - move or rename files and directory
 '''
