@@ -14,4 +14,5 @@
 12. **ls -la . .. [file]** - lists files including hidden files in current directory, parent directory and file directory in long format 
 13. **file** - determine file type
 14. **ln** - creates a symbolic link
+15. **cp -u** - copies files that did not exist in the destination directory or were newer than the versions in the destination directory
 '''
