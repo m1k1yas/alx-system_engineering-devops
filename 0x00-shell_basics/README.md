@@ -8,4 +8,5 @@
 6. **ls -na** - lists files including hidden files by user and group IDs numerically
 7. **mkdir** - creates directory
 8. **mv** - move or rename files and directory
+9. **rm** - removes file
 '''
