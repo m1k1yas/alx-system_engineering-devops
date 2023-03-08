@@ -15,4 +15,5 @@
 13. **file** - determine file type
 14. **ln** - creates a symbolic link
 15. **cp -u** - copies files that did not exist in the destination directory or were newer than the versions in the destination directory
+16. **mv** [:upper:] - moves uppercase letter
 '''
