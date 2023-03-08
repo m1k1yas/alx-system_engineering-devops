@@ -13,4 +13,5 @@
 11. **cd -** - goes back to the previous directory
 12. **ls -la . .. [file]** - lists files including hidden files in current directory, parent directory and file directory in long format 
 13. **file** - determine file type
+14. **ln** - creates a symbolic link
 '''
