@@ -9,4 +9,5 @@
 7. **mkdir** - creates directory
 8. **mv** - move or rename files and directory
 9. **rm** - removes file
+10. **rmdir** - removes directory
 '''
