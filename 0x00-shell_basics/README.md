@@ -10,5 +10,5 @@
 8. **mv** - move or rename files and directory
 9. **rm** - removes file
 10. **rmdir** - removes directory
-11. **cd ..** - goes back to the previous directory
+11. **cd -** - goes back to the previous directory
 '''
