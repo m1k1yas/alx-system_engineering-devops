@@ -18,4 +18,5 @@
 16. **mv** [:upper:] - moves uppercase letter
 17. **rm *~** - remove all ending with ~
 18. **mkdir -p** - creates parent dirctory as needed
- '''
+19. **ls -am -p** -  lists all the files and directories of the current directory, separated by commas with directory names should end with a slash
+'''
