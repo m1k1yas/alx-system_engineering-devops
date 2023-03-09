@@ -5,4 +5,5 @@
 3. **groups** -  display the list of groups associated with the current user
 4. **chown** - changes the owner of a file
 5. **touch** - creates empty file
+6. **chmod** - adds permission
 '''
