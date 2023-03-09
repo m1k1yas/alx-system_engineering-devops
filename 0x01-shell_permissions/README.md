@@ -6,4 +6,5 @@
 4. **chown** - changes the owner of a file
 5. **touch** - creates empty file
 6. **chmod** - adds permission
+7. **chmod --refernce** - copy file permissions from one file to another file
 '''
